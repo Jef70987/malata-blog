@@ -54,7 +54,7 @@ function App() {
           <div className="flex flex-col md:flex-row md:items-center md:justify-between">
             <div>
               <h1 className="text-2xl md:text-3xl font-bold text-[#1a1a1a]">
-                <span className="text-[#cc0000]">Blog</span> Updates
+                <span className="text-[#cc0000]">Global Mentorship Branding</span> Updates
               </h1>
               <p className="text-sm text-gray-600">Stories that inform & inspire</p>
             </div>
